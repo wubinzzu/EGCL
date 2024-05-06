@@ -1,8 +1,0 @@
-2024-01-24 11:25:55.186: ciao_ratio_u0_i0_by_time
-2024-01-24 11:25:55.186: Dataset name: ciao
-The number of users: 7267
-The number of items: 11211
-The number of ratings: 147995
-Average actions of users: 20.37
-Average actions of items: 13.20
-The sparsity of the dataset: 99.818345%
