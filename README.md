@@ -1,7 +1,7 @@
 # EGCL
 This is our Tensorflow implementation for our EGCL 2024 paper and a part of baselines:
 
->Bin Wu, Bo Zhang &Yihao  Tian &Jing Liang & Yangdong Ye. EGCL: An Effective and Efficient Graph Contrastive Learning Framework for Social Recommendation, IEEE Transactions on Cybernetics, Submission 2024.
+>Bin Wu, Bo Zhang, Yihao Tian, Jing Liang & Yangdong Ye. EGCL: An Effective and Efficient Graph Contrastive Learning Framework for Social Recommendation, IEEE Transactions on Cybernetics, Submission 2024.
 
 ## Environment Requirement
 The code has been tested running under Python 3.6.5. The required packages are as follows:
